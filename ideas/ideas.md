@@ -12,10 +12,18 @@ Boris - Programátor
 - Použít SSO VŠB-TUO nebo vlastní
 - Vlastní přihlášení, soubor ve formě JSON s jménem a heslem
 
-# Data
+## Data
 - aktuální data (projekce) budou k dispozici pomocí HTTP API
 - historie bude obsahovat události (změny stavů jednotlivých zařízení - světel), historii přihlášení a (možná) veškerou historii úprav/konfigurace zařízení
-- 
+- historie se nebude mazat - zůstane celá
+- data se budou ukládat lokálně v místě, kde běží služba
+- zálohování denně, 1 soubor = 1 den + záloha konfigurace(?)
+- (MOŽNÁ) Zkusit nerelační databázi, třeba Mongo - otázka výkonu/stability/rychlosti a preferencí
+
+## Bezpečnost
+- Je-li požadavek na 100% spolehlivost systému, bude služba informovat o svém stavu
+- Pak bude existovat druhý, nezávislý systém, který bude hlídat hlavní - v případě výpadku tento systém zareaguje nouzovým režimem 
+- Otázka: Zpětná vázba z světel, jak kontrolovat, že fungují správně?
 
 
 ## Je třeba dořešit
@@ -27,3 +35,8 @@ Boris - Programátor
 - Výběr ethernet modulů k PIR
 - Výběr kamer
 - Výběr 
+
+
+## Úkoly
+
+
