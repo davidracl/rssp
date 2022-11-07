@@ -2,7 +2,7 @@
 
 **David** - class diagram - popis možných objektů, popis možných variant jak realizovat PIR modul<br>
 **Lucka** - state diagram - popis co se stane, když příjde změna stavu ze senzoru<br>
-**Boris** - začít kompletovat dokumentaci<br>
+**Boris** - začít kompletovat dokumentaci, vytvořit mapu rozmístění PIR modulů<br>
 
 
 ## 17.10.2022
