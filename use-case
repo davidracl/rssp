@@ -1,98 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T11:57:25.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DDmL4bstcpNsqFSPymVe" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T12:20:48.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Hv8-Zrjt8Kfuzd9_3L0O" version="20.5.2" type="github">
   <diagram id="egWqHZJp0v32aQKm-4Tn" name="Page-1">
-    <mxGraphModel dx="1422" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="60" width="550" height="650" as="geometry" />
+        <mxCell id="JkwX_ixSk-PYN31GRVDw-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="170" width="410" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-2" value="Řídicí aplikace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="40" width="90" height="20" as="geometry" />
+        <mxCell id="JkwX_ixSk-PYN31GRVDw-2" value="Řídicí aplikace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="150" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-3" value="Světla" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="406" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-4" target="JkwX_ixSk-PYN31GRVDw-6">
+        <mxCell id="t7Akojvnchy0wDMB04bo-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-8" target="t7Akojvnchy0wDMB04bo-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-4" target="JkwX_ixSk-PYN31GRVDw-12">
+        <mxCell id="t7Akojvnchy0wDMB04bo-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-8" target="JkwX_ixSk-PYN31GRVDw-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-4" target="JkwX_ixSk-PYN31GRVDw-13">
+        <mxCell id="JkwX_ixSk-PYN31GRVDw-8" value="Nadřazený systém" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="571" y="304.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JkwX_ixSk-PYN31GRVDw-16" value="uc3: informace o stavu" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JkwX_ixSk-PYN31GRVDw-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="JkwX_ixSk-PYN31GRVDw-17" target="JkwX_ixSk-PYN31GRVDw-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-4" target="JkwX_ixSk-PYN31GRVDw-33">
+        <mxCell id="JkwX_ixSk-PYN31GRVDw-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="JkwX_ixSk-PYN31GRVDw-17" target="JkwX_ixSk-PYN31GRVDw-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-4" value="Obsluha" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="227" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-6" value="uc1: Přihlášení do aplikace" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="90" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-7" target="JkwX_ixSk-PYN31GRVDw-6">
+        <mxCell id="t7Akojvnchy0wDMB04bo-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-17" target="t7Akojvnchy0wDMB04bo-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-7" value="uc2: Ověření uživatele" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="90" width="120" height="80" as="geometry" />
+        <mxCell id="JkwX_ixSk-PYN31GRVDw-17" value="Senzory" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="320" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.8;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-8" target="JkwX_ixSk-PYN31GRVDw-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JkwX_ixSk-PYN31GRVDw-18" value="uc1: detekován pohyb" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-8" value="Nadřazený systém" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="619" width="30" height="60" as="geometry" />
+        <mxCell id="JkwX_ixSk-PYN31GRVDw-22" value="uc4: informace o poruše" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="321" y="344.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-10" value="&amp;gt;&amp;gt; include &amp;lt;&amp;lt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="110" width="80" height="20" as="geometry" />
+        <mxCell id="t7Akojvnchy0wDMB04bo-4" value="uc2: dotaz na stav senzoru" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-12" value="uc3: zobrazit aktuální stav" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-13" value="uc4: zobrazit historické záznamy" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="270" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-16" target="JkwX_ixSk-PYN31GRVDw-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-16" value="uc7: informace o stavu" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="609" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-17" target="JkwX_ixSk-PYN31GRVDw-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-17" target="JkwX_ixSk-PYN31GRVDw-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-17" value="Senzory" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="559" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-18" target="JkwX_ixSk-PYN31GRVDw-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-18" value="uc6: detekován pohyb" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="489" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-22" target="JkwX_ixSk-PYN31GRVDw-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-22" value="uc8: zapnout/vypnout světla" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="503" y="396" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-24" value="&amp;gt;&amp;gt; include&amp;nbsp;&amp;lt;&amp;lt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=344;" vertex="1" parent="1">
-          <mxGeometry x="349" y="461" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JkwX_ixSk-PYN31GRVDw-26" target="JkwX_ixSk-PYN31GRVDw-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-26" value="uc9: Timer" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="503" y="279" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-28" value="&amp;gt;&amp;gt; include &amp;lt;&amp;lt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="563" y="369" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JkwX_ixSk-PYN31GRVDw-33" value="uc5: přepnout režim aplikace" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="359" width="120" height="80" as="geometry" />
+        <mxCell id="t7Akojvnchy0wDMB04bo-7" value="uc4: požadavek na rozsvícení vybraného světla" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="321" y="245.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
