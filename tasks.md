@@ -1,3 +1,9 @@
+## 21.11.2022
+
+**David** - dodělat diagram, připravit další podklady na kompletaci<br>
+**Lucka** - přidat obecné diagramy + popis<br>
+**Boris** - předchystat prezentaci, detaily<br>
+
 ## 7.11.2022
 
 **David** - class diagram - popis možných objektů, popis možných variant jak realizovat PIR modul<br>
