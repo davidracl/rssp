@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T19:36:42.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="YB3lJDc6UddDp_CG11WK" type="github"><diagram id="ETdwcM1-8DrKcGKTPy9_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-25T21:46:45.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="x82mRDPwoOIblB7IzZS3" type="github">
+  <diagram id="zjv-gESx9AJlDbdNZPzI" name="Page-1">
+    <mxGraphModel dx="948" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="u2k8RZQqrVYDnutjPKLl-1" target="u2k8RZQqrVYDnutjPKLl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="u2k8RZQqrVYDnutjPKLl-1" target="u2k8RZQqrVYDnutjPKLl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-1" value="Řídící aplikace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="527" y="281" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-6" value="MongoDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="507" y="253" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-8" value="Nadřazená aplikace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="u2k8RZQqrVYDnutjPKLl-10" target="u2k8RZQqrVYDnutjPKLl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.tomark.co.uk/wp-content/uploads/2021/04/iot-sensor-icon-27-300x300-1-300x300-1-300x300.png;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-12" value="Moduly se senzory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="u2k8RZQqrVYDnutjPKLl-14" target="u2k8RZQqrVYDnutjPKLl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.tomark.co.uk/wp-content/uploads/2021/04/iot-sensor-icon-27-300x300-1-300x300-1-300x300.png;" vertex="1" parent="1">
+          <mxGeometry x="445" y="140" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.tomark.co.uk/wp-content/uploads/2021/04/iot-sensor-icon-27-300x300-1-300x300-1-300x300.png;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-25" value="" style="endArrow=classicThin;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" target="u2k8RZQqrVYDnutjPKLl-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545" y="240" as="sourcePoint" />
+            <mxPoint x="490" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.tomark.co.uk/wp-content/uploads/2021/04/iot-sensor-icon-27-300x300-1-300x300-1-300x300.png;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-31" value="" style="endArrow=classicThin;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304.8" y="240" as="sourcePoint" />
+            <mxPoint x="304.8" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-32" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="567" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2k8RZQqrVYDnutjPKLl-33" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="153" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
