@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2022-11-26T20:21:16.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="pYc5a22Y_4RS_FH6Z_OD" type="github">
+  <diagram id="nB8PHHSYJmCIf8zRc7qO" name="Page-1">
+    <mxGraphModel dx="655" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mofge1FGRTh6ZkwpwW9h-1" value="Světla" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mofge1FGRTh6ZkwpwW9h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mofge1FGRTh6ZkwpwW9h-3" target="mofge1FGRTh6ZkwpwW9h-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mofge1FGRTh6ZkwpwW9h-3" value="Detekce pohybu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mofge1FGRTh6ZkwpwW9h-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mofge1FGRTh6ZkwpwW9h-4" target="mofge1FGRTh6ZkwpwW9h-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mofge1FGRTh6ZkwpwW9h-4" value="Nadřazený systém pro řízení světel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mofge1FGRTh6ZkwpwW9h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mofge1FGRTh6ZkwpwW9h-6" target="mofge1FGRTh6ZkwpwW9h-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mofge1FGRTh6ZkwpwW9h-6" value="Systém pro vyhodnocování pohybu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
