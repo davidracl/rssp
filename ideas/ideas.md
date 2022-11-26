@@ -36,7 +36,7 @@ Boris - Programátor
 - Pak bude existovat druhý, nezávislý systém, který bude hlídat hlavní - v případě výpadku tento systém zareaguje nouzovým režimem 
 - Otázka: Zpětná vázba z světel, jak kontrolovat, že fungují správně?
 
-## Je třeba dořešit
+## Je třeba dořešit - vyřešeno
 - Jak a kam vést komunikační / napájecí vodiče
 - Je k dispozici server na kterém může služba běžet + spolehlivost + přístup k němu?
 - Jak lze světla aktuálně ovládat, jaké jsou možnosti?
